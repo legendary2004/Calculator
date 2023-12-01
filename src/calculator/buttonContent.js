@@ -1,0 +1,18 @@
+export default [
+    {content: 1, color: 'btn-secondary'},
+    {content: 2, color: 'btn-secondary'},
+    {content: 3, color: 'btn-secondary'},
+    {content: '+', color: 'btn-secondary'},
+    {content: 4, color: 'btn-secondary'},
+    {content: 5, color: 'btn-secondary'},
+    {content: 6, color: 'btn-secondary'},
+    {content: '-', color: 'btn-secondary'},
+    {content: 7, color: 'btn-secondary'},
+    {content: 8, color: 'btn-secondary'},
+    {content: 9, color: 'btn-secondary'},
+    {content: '*', color: 'btn-secondary'},
+    {content: '.', color: 'btn-secondary'},
+    {content: 0 , color: 'btn-secondary'},
+    {content: '/', color: 'btn-secondary'},
+    {content: "=", color: 'btn-success'},
+]
